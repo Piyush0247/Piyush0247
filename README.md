@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Instgram, Twitter, and this platform
 - 📫 My email - jainp0247@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I'm going to be the best developer
 
 <!---
 Piyush0247/Piyush0247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
