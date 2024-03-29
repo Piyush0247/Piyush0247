@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning everythings as possible
 - 💞️ I’m looking to collaborate on Instgram, Twitter, and this platform
 - 📫 My email - jainp0247@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ... I'm going to be the best developer
 
 <!---
